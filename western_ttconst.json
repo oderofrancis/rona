@@ -1,0 +1,3066 @@
+[
+ {
+   "ttconst": "tt0025893",
+   "title": "Buffalo Stampede (aka Thundering Herd)"
+ },
+ {
+   "ttconst": "tt0021861",
+   "title": "Fighting Caravans"
+ },
+ {
+   "ttconst": "tt0028653",
+   "title": "Hell Town (aka Born to the West)"
+ },
+ {
+   "ttconst": "tt0025939",
+   "title": "Fighting Westerner, The (aka Rocky Mountain Mystery)"
+ },
+ {
+   "ttconst": "tt0024674",
+   "title": "To The Last Man"
+ },
+ {
+   "ttconst": "tt0027308",
+   "title": "Arizona Raiders, The"
+ },
+ {
+   "ttconst": "tt0033390",
+   "title": "Billy the Kid Trapped"
+ },
+ {
+   "ttconst": "tt0033391",
+   "title": "Billy the Kid Wanted"
+ },
+ {
+   "ttconst": "tt0035723",
+   "title": "Cattle Stampede"
+ },
+ {
+   "ttconst": "tt0035908",
+   "title": "Fugitive of the Plains"
+ },
+ {
+   "ttconst": "tt0035316",
+   "title": "Sheriff of Sage Valley"
+ },
+ {
+   "ttconst": "tt0036523",
+   "title": "Western Cyclone"
+ },
+ {
+   "ttconst": "tt0037464",
+   "title": "Wild Horse Phantom"
+ },
+ {
+   "ttconst": "tt0027361",
+   "title": "Big Show, The"
+ },
+ {
+   "ttconst": "tt0028646",
+   "title": "Boots and Saddles"
+ },
+ {
+   "ttconst": "tt0028934",
+   "title": "Git Along Little Doggies "
+ },
+ {
+   "ttconst": "tt0025303",
+   "title": "In Old Santa Fe"
+ },
+ {
+   "ttconst": "tt0041809",
+   "title": "Riders of the Whistling Pines"
+ },
+ {
+   "ttconst": "tt0041810",
+   "title": "Rim of the Canyon"
+ },
+ {
+   "ttconst": "tt0029602",
+   "title": "Springtime in the Rockies"
+ },
+ {
+   "ttconst": "tt0039152",
+   "title": "Angel and The Badman"
+ },
+ {
+   "ttconst": "tt0024902",
+   "title": "Blue Steel"
+ },
+ {
+   "ttconst": "tt0026267",
+   "title": "Dawn Rider, The"
+ },
+ {
+   "ttconst": "tt0025373",
+   "title": "Lawless Frontier, The"
+ },
+ {
+   "ttconst": "tt0025440",
+   "title": "Lucky Texan, The"
+ },
+ {
+   "ttconst": "tt0025455",
+   "title": "Man from Utah, The"
+ },
+ {
+   "ttconst": "tt0057298",
+   "title": "McLintock!"
+ },
+ {
+   "ttconst": "tt0024805",
+   "title": "Neath The Arizona Skies"
+ },
+ {
+   "ttconst": "tt0026846",
+   "title": "Paradise Canyon"
+ },
+ {
+   "ttconst": "tt0026908",
+   "title": "Rainbow Valley"
+ },
+ {
+   "ttconst": "tt0025699",
+   "title": "Randy Rides Alone"
+ },
+ {
+   "ttconst": "tt0024500",
+   "title": "Riders of Destiny"
+ },
+ {
+   "ttconst": "tt0024516",
+   "title": "Sagebrush Trail"
+ },
+ {
+   "ttconst": "tt0025830",
+   "title": "Star Packer"
+ },
+ {
+   "ttconst": "tt0027087",
+   "title": "Texas Terror"
+ },
+ {
+   "ttconst": "tt0025903",
+   "title": "Trail Beyond, The"
+ },
+ {
+   "ttconst": "tt0025969",
+   "title": "West of the Divide"
+ },
+ {
+   "ttconst": "tt0028510",
+   "title": "Winds of Wasteland"
+ },
+ {
+   "ttconst": "tt0039157",
+   "title": "Apache Rose"
+ },
+ {
+   "ttconst": "tt0033367",
+   "title": "Bad Man of Deadwood"
+ },
+ {
+   "ttconst": "tt0039180",
+   "title": "Bells of San Angelo"
+ },
+ {
+   "ttconst": "tt0037535",
+   "title": "Bells of Rosarita"
+ },
+ {
+   "ttconst": "tt0029915",
+   "title": "Billy the Kid Returns"
+ },
+ {
+   "ttconst": "tt0032312",
+   "title": "Carson City Kid, The"
+ },
+ {
+   "ttconst": "tt0032346",
+   "title": "Colorado"
+ },
+ {
+   "ttconst": "tt0036725",
+   "title": "Cowboy and the Senorita"
+ },
+ {
+   "ttconst": "tt0031216",
+   "title": "Days of Jesse James"
+ },
+ {
+   "ttconst": "tt0036075",
+   "title": "King of the Cowboys"
+ },
+ {
+   "ttconst": "tt0038764",
+   "title": "My Pal Trigger"
+ },
+ {
+   "ttconst": "tt0034088",
+   "title": "Red River Valley"
+ },
+ {
+   "ttconst": "tt0031958",
+   "title": "Southward Ho"
+ },
+ {
+   "ttconst": "tt0040915",
+   "title": "Under California Stars"
+ },
+ {
+   "ttconst": "tt0033286",
+   "title": "Young Bill Hickok"
+ },
+ {
+   "ttconst": "tt0028582",
+   "title": "Arizona Days"
+ },
+ {
+   "ttconst": "tt0032364",
+   "title": "Cowboy from Sundown"
+ },
+ {
+   "ttconst": "tt0036750",
+   "title": "Dead or Alive"
+ },
+ {
+   "ttconst": "tt0031247",
+   "title": "Down the Wyoming Trail"
+ },
+ {
+   "ttconst": "tt0037673",
+   "title": "Enemy of the Law"
+ },
+ {
+   "ttconst": "tt0036847",
+   "title": "Gangsters of the Frontier"
+ },
+ {
+   "ttconst": "tt0029005",
+   "title": "Hittin the Trail"
+ },
+ {
+   "ttconst": "tt0037901",
+   "title": "Marked for Murder"
+ },
+ {
+   "ttconst": "tt0029289",
+   "title": "Mystery of The Hooded Horseman, The"
+ },
+ {
+   "ttconst": "tt0031860",
+   "title": "Riders of the Frontier, The"
+ },
+ {
+   "ttconst": "tt0029485",
+   "title": "Riders of the Rockies"
+ },
+ {
+   "ttconst": "tt0030689",
+   "title": "Rollin Plains"
+ },
+ {
+   "ttconst": "tt0029568",
+   "title": "Sing Cowboy Sing"
+ },
+ {
+   "ttconst": "tt0028283",
+   "title": "Song Of The Gringo"
+ },
+ {
+   "ttconst": "tt0033132",
+   "title": "Take Me Back to Oklahoma"
+ },
+ {
+   "ttconst": "tt0030849",
+   "title": "Tex Rides With The Boy Scouts"
+ },
+ {
+   "ttconst": "tt0029694",
+   "title": "Trouble in Texas"
+ },
+ {
+   "ttconst": "tt0030921",
+   "title": "Utah Trail, The"
+ },
+ {
+   "ttconst": "tt0030969",
+   "title": "Where the Buffalo Roam"
+ },
+ {
+   "ttconst": "tt0034469",
+   "title": "Arizona Stage Coach"
+ },
+ {
+   "ttconst": "tt0034541",
+   "title": "Boot Hill Bandits"
+ },
+ {
+   "ttconst": "tt0035973",
+   "title": "Haunted Ranch"
+ },
+ {
+   "ttconst": "tt0036096",
+   "title": "Land of Hunted Men"
+ },
+ {
+   "ttconst": "tt0032971",
+   "title": "Range Busters, The"
+ },
+ {
+   "ttconst": "tt0035280",
+   "title": "Saddle Mountain Roundup"
+ },
+ {
+   "ttconst": "tt0158267",
+   "title": "Texas Trouble Shooters"
+ },
+ {
+   "ttconst": "tt0033181",
+   "title": "Trailing Double Trouble"
+ },
+ {
+   "ttconst": "tt0029962",
+   "title": "Call the Mesquiteers"
+ },
+ {
+   "ttconst": "tt0028732",
+   "title": "Come On Cowboys"
+ },
+ {
+   "ttconst": "tt0027670",
+   "title": "Ghost Town Gold"
+ },
+ {
+   "ttconst": "tt0028971",
+   "title": "Gunsmoke Ranch"
+ },
+ {
+   "ttconst": "tt0029004",
+   "title": "Hit the Saddle"
+ },
+ {
+   "ttconst": "tt0030636",
+   "title": "Purple Vigilantes, The"
+ },
+ {
+   "ttconst": "tt0029462",
+   "title": "Range Defenders"
+ },
+ {
+   "ttconst": "tt0029486",
+   "title": "Riders of the Whistling Skull, The"
+ },
+ {
+   "ttconst": "tt0028194",
+   "title": "Roarin' Lead"
+ },
+ {
+   "ttconst": "tt0028372",
+   "title": "Three Mesquiteers, The"
+ },
+ {
+   "ttconst": "tt0029692",
+   "title": "Trigger Trio, The"
+ },
+ {
+   "ttconst": "tt1916384",
+   "title": "Tin Horn Dude"
+ },
+ {
+   "ttconst": "tt2296237",
+   "title": "Goldriggers of 49"
+ },
+ {
+   "ttconst": "tt1916362",
+   "title": "Behind the 8-Ball Express"
+ },
+ {
+   "ttconst": "tt1175449",
+   "title": "Let’s Shoot the Piano Player"
+ },
+ {
+   "ttconst": "tt0637454",
+   "title": "Lucy And John Wayne"
+ },
+ {
+   "ttconst": "tt0066194",
+   "title": "Over-the-Hill Gang Rides Again, The"
+ },
+ {
+   "ttconst": "tt0064780",
+   "title": "Over-the-Hill Gang, The"
+ },
+ {
+   "ttconst": "tt0057510",
+   "title": "Slowest Gun in the West"
+ },
+ {
+   "ttconst": "tt0295018",
+   "title": "Wackiest Wagon Train in the West, The"
+ },
+ {
+   "ttconst": "tt0038284",
+   "title": "Abilene Town"
+ },
+ {
+   "ttconst": "tt0072615",
+   "title": "Against a Crooked Sky"
+ },
+ {
+   "ttconst": "tt0034455",
+   "title": "American Empire"
+ },
+ {
+   "ttconst": "tt0062429",
+   "title": "Any Gun Can Play"
+ },
+ {
+   "ttconst": "tt0072651",
+   "title": "Apache Blood"
+ },
+ {
+   "ttconst": "tt0039181",
+   "title": "Bells of San Fernando"
+ },
+ {
+   "ttconst": "tt0034505",
+   "title": "Below the Border"
+ },
+ {
+   "ttconst": "tt0024883",
+   "title": "Between Men"
+ },
+ {
+   "ttconst": "tt0044420",
+   "title": "Big Trees, The"
+ },
+ {
+   "ttconst": "tt0064175",
+   "title": "Boot Hill"
+ },
+ {
+   "ttconst": "tt0028645",
+   "title": "Boothill Brigade"
+ },
+ {
+   "ttconst": "tt0022921",
+   "title": "Broadway to Cheyene"
+ },
+ {
+   "ttconst": "tt0035700",
+   "title": "Buckskin Frontier"
+ },
+ {
+   "ttconst": "tt0041221",
+   "title": "Call of the Forest"
+ },
+ {
+   "ttconst": "tt0027434",
+   "title": "Cavalcade of the West"
+ },
+ {
+   "ttconst": "tt0021726",
+   "title": "Cavalier of the West"
+ },
+ {
+   "ttconst": "tt0021751",
+   "title": "Clearing the Range"
+ },
+ {
+   "ttconst": "tt0044506",
+   "title": "Colorado Sundown"
+ },
+ {
+   "ttconst": "tt0026244",
+   "title": "Coyote Trails"
+ },
+ {
+   "ttconst": "tt0078240",
+   "title": "Curse of Demon Mountain (aka The Shadow of Chikara)"
+ },
+ {
+   "ttconst": "tt0054795",
+   "title": "Deadly Companions"
+ },
+ {
+   "ttconst": "tt0064208",
+   "title": "Death Rides a Horse"
+ },
+ {
+   "ttconst": "tt0032387",
+   "title": "Death Rides the Range"
+ },
+ {
+   "ttconst": "tt0043482",
+   "title": "Drums in Deep South"
+ },
+ {
+   "ttconst": "tt0031306",
+   "title": "Fighting Renegade, The"
+ },
+ {
+   "ttconst": "tt0027647",
+   "title": "Frontier Justice"
+ },
+ {
+   "ttconst": "tt0030159",
+   "title": "Frontier Scout"
+ },
+ {
+   "ttconst": "tt0027669",
+   "title": "Ghost Patrol"
+ },
+ {
+   "ttconst": "tt0073059",
+   "title": "Gone With the West"
+ },
+ {
+   "ttconst": "tt0068657",
+   "title": "Grand Duel, The (aka The Big Showdown)"
+ },
+ {
+   "ttconst": "tt0071589",
+   "title": "Gun and the Pulpit, The"
+ },
+ {
+   "ttconst": "tt0071593",
+   "title": "Hanged Man, The"
+ },
+ {
+   "ttconst": "tt0042552",
+   "title": "High Lonesome"
+ },
+ {
+   "ttconst": "tt0068539",
+   "title": "It Can Be Done Amigo"
+ },
+ {
+   "ttconst": "tt0074719",
+   "title": "Joshua"
+ },
+ {
+   "ttconst": "tt0022060",
+   "title": "Law of the Rio Grande"
+ },
+ {
+   "ttconst": "tt0040565",
+   "title": "Man From Texas, The"
+ },
+ {
+   "ttconst": "tt0049515",
+   "title": "Mohawk"
+ },
+ {
+   "ttconst": "tt0043829",
+   "title": "My Outlaw Brother"
+ },
+ {
+   "ttconst": "tt0043849",
+   "title": "New Mexico"
+ },
+ {
+   "ttconst": "tt0055257",
+   "title": "One-Eyed Jacks"
+ },
+ {
+   "ttconst": "tt0036241",
+   "title": "Outlaw, The"
+ },
+ {
+   "ttconst": "tt0032902",
+   "title": "Phantom Rancher"
+ },
+ {
+   "ttconst": "tt0070569",
+   "title": "Proud and the Damned"
+ },
+ {
+   "ttconst": "tt0048535",
+   "title": "Rage at Dawn"
+ },
+ {
+   "ttconst": "tt0050879",
+   "title": "Raiders of Old California"
+ },
+ {
+   "ttconst": "tt0038877",
+   "title": "Renegade Girl"
+ },
+ {
+   "ttconst": "tt0028195",
+   "title": "Roarin Guns"
+ },
+ {
+   "ttconst": "tt0028218",
+   "title": "Santa Fe Bound"
+ },
+ {
+   "ttconst": "tt0033021",
+   "title": "Santa Fe Trail"
+ },
+ {
+   "ttconst": "tt0038979",
+   "title": "Stagecoach to Denver"
+ },
+ {
+   "ttconst": "tt0028311",
+   "title": "Stormy Trails"
+ },
+ {
+   "ttconst": "tt0043013",
+   "title": "Sundowners, The"
+ },
+ {
+   "ttconst": "tt0041994",
+   "title": "Tulsa (1949)"
+ },
+ {
+   "ttconst": "tt0044186",
+   "title": "Vengeance Valley"
+ },
+ {
+   "ttconst": "tt0029768",
+   "title": "Whistling Bullets"
+ },
+ {
+   "ttconst": "tt0502366",
+   "title": "The Recruit"
+ },
+ {
+   "ttconst": "tt0502376",
+   "title": "Trouble at Pinnacle Peak"
+ },
+ {
+   "ttconst": "tt0502371",
+   "title": "The Wild Bunch"
+ },
+ {
+   "ttconst": "tt0502313",
+   "title": "Border Incident"
+ },
+ {
+   "ttconst": "tt0502331",
+   "title": "Incident at Yuma"
+ },
+ {
+   "ttconst": "tt0502367",
+   "title": "The Slater Brothers"
+ },
+ {
+   "ttconst": "tt0502320",
+   "title": "Dead Man in Tucson"
+ },
+ {
+   "ttconst": "tt0502340",
+   "title": "Man on the Run"
+ },
+ {
+   "ttconst": "tt0502359",
+   "title": "The Big Rope"
+ },
+ {
+   "ttconst": "tt0502373",
+   "title": "Trail of Darkness"
+ },
+ {
+   "ttconst": "tt0502372",
+   "title": "Trade Me Deadly"
+ },
+ {
+   "ttconst": "tt0502358",
+   "title": "The Bells of St. Thomas"
+ },
+ {
+   "ttconst": "tt0505836",
+   "title": "The Saddle Tramp"
+ },
+ {
+   "ttconst": "tt1065541",
+   "title": "Crossroads Trail"
+ },
+ {
+   "ttconst": "tt0505830",
+   "title": "Salted Ground"
+ },
+ {
+   "ttconst": "tt0505833",
+   "title": "The Medicine Man Mystery"
+ },
+ {
+   "ttconst": "tt0505826",
+   "title": "Lost River"
+ },
+ {
+   "ttconst": "tt0505829",
+   "title": "Renegade Stallion"
+ },
+ {
+   "ttconst": "tt0505823",
+   "title": "Canyon of Wanted Men"
+ },
+ {
+   "ttconst": "tt1100603",
+   "title": "Challenge of the West"
+ },
+ {
+   "ttconst": "tt0505834",
+   "title": "The Outlaw's Secret"
+ },
+ {
+   "ttconst": "tt0505824",
+   "title": "Hangman's Noose"
+ },
+ {
+   "ttconst": "tt0505825",
+   "title": "King of the Rodeo"
+ },
+ {
+   "ttconst": "tt0505818",
+   "title": "A Bugle for Ricky"
+ },
+ {
+   "ttconst": "tt0505837",
+   "title": "The Stone Heart"
+ },
+ {
+   "ttconst": "tt0505831",
+   "title": "The Deer Hunters"
+ },
+ {
+   "ttconst": "tt1100600",
+   "title": "Johnny Hands Up"
+ },
+ {
+   "ttconst": "tt1100601",
+   "title": "Black Kachina"
+ },
+ {
+   "ttconst": "tt0505828",
+   "title": "Rails West"
+ },
+ {
+   "ttconst": "tt0505819",
+   "title": "Andrew and the Deadly Double"
+ },
+ {
+   "ttconst": "tt0505820",
+   "title": "Bad Men of the Valley"
+ },
+ {
+   "ttconst": "tt0505835",
+   "title": "The Return of Red Cloud"
+ },
+ {
+   "ttconst": "tt0505821",
+   "title": "Brand of the Lawless"
+ },
+ {
+   "ttconst": "tt0505832",
+   "title": "The Die Hards"
+ },
+ {
+   "ttconst": "tt0505822",
+   "title": "Calhoun Rides Again"
+ },
+ {
+   "ttconst": "tt0505930",
+   "title": "The Birth of the Blade"
+ },
+ {
+   "ttconst": "tt0505951",
+   "title": "The Squatter"
+ },
+ {
+   "ttconst": "tt0505889",
+   "title": "An Adventure with Audubon"
+ },
+ {
+   "ttconst": "tt0505904",
+   "title": "Deputy Sheriff"
+ },
+ {
+   "ttconst": "tt0505954",
+   "title": "Trapline"
+ },
+ {
+   "ttconst": "tt0505895",
+   "title": "Broomstick Wedding"
+ },
+ {
+   "ttconst": "tt0505920",
+   "title": "Natchez Trace"
+ },
+ {
+   "ttconst": "tt0505912",
+   "title": "Jim Bowie Comes Home"
+ },
+ {
+   "ttconst": "tt0505939",
+   "title": "Ghost of Jean Battoo"
+ },
+ {
+   "ttconst": "tt0505949",
+   "title": "The Secessionists"
+ },
+ {
+   "ttconst": "tt0505915",
+   "title": "The Land Jumpers"
+ },
+ {
+   "ttconst": "tt0505950",
+   "title": "The Select Females"
+ },
+ {
+   "ttconst": "tt0505913",
+   "title": "Jim Bowie and His Slave"
+ },
+ {
+   "ttconst": "tt0505922",
+   "title": "The Outlaw Kingdom"
+ },
+ {
+   "ttconst": "tt0505952",
+   "title": "The Swordsman"
+ },
+ {
+   "ttconst": "tt0505948",
+   "title": "Return of the Alciblade"
+ },
+ {
+   "ttconst": "tt0505919",
+   "title": "Monsieur Francois"
+ },
+ {
+   "ttconst": "tt0505921",
+   "title": "Osceola"
+ },
+ {
+   "ttconst": "tt0505911",
+   "title": "Jackson Assassination"
+ },
+ {
+   "ttconst": "tt0505907",
+   "title": "Gone to Texas"
+ },
+ {
+   "ttconst": "tt0827244",
+   "title": "The Road to Monterey"
+ },
+ {
+   "ttconst": "tt0506028",
+   "title": "The Murango Story"
+ },
+ {
+   "ttconst": "tt0505995",
+   "title": "Enemies of the West"
+ },
+ {
+   "ttconst": "tt0506008",
+   "title": "Law of the Six Guns"
+ },
+ {
+   "ttconst": "tt0827239",
+   "title": "The Devil at Angel's Camp"
+ },
+ {
+   "ttconst": "tt0827226",
+   "title": "Law of the Frontier"
+ },
+ {
+   "ttconst": "tt0506000",
+   "title": "Fury at Red Gulch"
+ },
+ {
+   "ttconst": "tt0506025",
+   "title": "The Desperate Sheriff"
+ },
+ {
+   "ttconst": "tt0506026",
+   "title": "The Hero of Hermosa"
+ },
+ {
+   "ttconst": "tt0827222",
+   "title": "A Ticket to Mexico"
+ },
+ {
+   "ttconst": "tt0827223",
+   "title": "Badman of Brisco"
+ },
+ {
+   "ttconst": "tt0827236",
+   "title": "Spoilers of California"
+ },
+ {
+   "ttconst": "tt0505997",
+   "title": "Feud in San Filipe"
+ },
+ {
+   "ttconst": "tt0505987",
+   "title": "Border Corsairs"
+ },
+ {
+   "ttconst": "tt0506024",
+   "title": "The Baron of Black Springs"
+ },
+ {
+   "ttconst": "tt0505993",
+   "title": "Danger Hill"
+ },
+ {
+   "ttconst": "tt0827220",
+   "title": "Outlaw Paradise"
+ },
+ {
+   "ttconst": "tt0991388",
+   "title": "Powder Smoke Trail"
+ },
+ {
+   "ttconst": "tt0827248",
+   "title": "Trouble in Tuscarora"
+ },
+ {
+   "ttconst": "tt1025130",
+   "title": "Trail to Old Sonora"
+ },
+ {
+   "ttconst": "tt0827234",
+   "title": "Road to Destiny"
+ },
+ {
+   "ttconst": "tt0505986",
+   "title": "Border City"
+ },
+ {
+   "ttconst": "tt0506020",
+   "title": "Roaring Challenge"
+ },
+ {
+   "ttconst": "tt0506015",
+   "title": "Range Masters"
+ },
+ {
+   "ttconst": "tt0506034",
+   "title": "Thunder Over Inyo"
+ },
+ {
+   "ttconst": "tt0506012",
+   "title": "Pledge to Danger"
+ },
+ {
+   "ttconst": "tt0827235",
+   "title": "Singing Wires"
+ },
+ {
+   "ttconst": "tt1025128",
+   "title": "Broken Spur"
+ },
+ {
+   "ttconst": "tt0506038",
+   "title": "Ventura Feud"
+ },
+ {
+   "ttconst": "tt0505984",
+   "title": "Bad Men of Marysville"
+ },
+ {
+   "ttconst": "tt0513436",
+   "title": "Annie and the Brass Collar"
+ },
+ {
+   "ttconst": "tt0513434",
+   "title": "Annie Trusts a Convict"
+ },
+ {
+   "ttconst": "tt0513462",
+   "title": "Gunplay"
+ },
+ {
+   "ttconst": "tt0513480",
+   "title": "The Dude Stagecoach"
+ },
+ {
+   "ttconst": "tt0513422",
+   "title": "Ambush Canyon"
+ },
+ {
+   "ttconst": "tt0513424",
+   "title": "Annie Calls Her Shots"
+ },
+ {
+   "ttconst": "tt0513418",
+   "title": "A Gal for Grandma"
+ },
+ {
+   "ttconst": "tt0513447",
+   "title": "Annie and the Silver Ace"
+ },
+ {
+   "ttconst": "tt0513425",
+   "title": "Annie Finds Strange Treasure"
+ },
+ {
+   "ttconst": "tt0513479",
+   "title": "The Cinder Trail"
+ },
+ {
+   "ttconst": "tt0513497",
+   "title": "Valley of the Shadows"
+ },
+ {
+   "ttconst": "tt0513443",
+   "title": "Annie and the Lily Maid"
+ },
+ {
+   "ttconst": "tt0513483",
+   "title": "The Hardrock Trail"
+ },
+ {
+   "ttconst": "tt0513426",
+   "title": "Annie Gets Her Man"
+ },
+ {
+   "ttconst": "tt0513466",
+   "title": "Justice Guns"
+ },
+ {
+   "ttconst": "tt0513452",
+   "title": "Annie's Desert Adventure"
+ },
+ {
+   "ttconst": "tt0513445",
+   "title": "Annie and the Mystery Woman"
+ },
+ {
+   "ttconst": "tt0513449",
+   "title": "Annie and the Texas Sandman"
+ },
+ {
+   "ttconst": "tt0513430",
+   "title": "Annie Meets Some Tenderfeet"
+ },
+ {
+   "ttconst": "tt0513428",
+   "title": "Annie Joins the Cavalry"
+ },
+ {
+   "ttconst": "tt0513453",
+   "title": "Bull's Eye"
+ },
+ {
+   "ttconst": "tt0513427",
+   "title": "Annie Helps a Drifter"
+ },
+ {
+   "ttconst": "tt0513473",
+   "title": "Sharpshooting Annie"
+ },
+ {
+   "ttconst": "tt0513429",
+   "title": "Annie Makes a Marriage"
+ },
+ {
+   "ttconst": "tt0513468",
+   "title": "Outlaw Mesa"
+ },
+ {
+   "ttconst": "tt0513446",
+   "title": "Annie and the Outlaw's Son"
+ },
+ {
+   "ttconst": "tt0513420",
+   "title": "Alias Annie Oakley"
+ },
+ {
+   "ttconst": "tt0513490",
+   "title": "The Tomboy"
+ },
+ {
+   "ttconst": "tt0513488",
+   "title": "The Runaways"
+ },
+ {
+   "ttconst": "tt0513448",
+   "title": "Annie and the Six o' Spades"
+ },
+ {
+   "ttconst": "tt0513459",
+   "title": "Escape from Diablo"
+ },
+ {
+   "ttconst": "tt0513484",
+   "title": "The Iron Smoke-Wagon"
+ },
+ {
+   "ttconst": "tt0513437",
+   "title": "Annie and the Chinese Puzzle"
+ },
+ {
+   "ttconst": "tt0513423",
+   "title": "Annie Breaks an Alibi"
+ },
+ {
+   "ttconst": "tt0513494",
+   "title": "Trigger Twins"
+ },
+ {
+   "ttconst": "tt0513456",
+   "title": "Diablo Doctor"
+ },
+ {
+   "ttconst": "tt0513455",
+   "title": "Dead Man's Bluff"
+ },
+ {
+   "ttconst": "tt0513440",
+   "title": "Annie and the Junior Pioneers"
+ },
+ {
+   "ttconst": "tt0513463",
+   "title": "Hard Luck Ranch"
+ },
+ {
+   "ttconst": "tt0513492",
+   "title": "Thunder Hill"
+ },
+ {
+   "ttconst": "tt0513477",
+   "title": "Sure Shot Annie"
+ },
+ {
+   "ttconst": "tt0513451",
+   "title": "Annie and the Widow's Might"
+ },
+ {
+   "ttconst": "tt0513495",
+   "title": "Trouble Shooter"
+ },
+ {
+   "ttconst": "tt0513433",
+   "title": "Annie Takes a Chance"
+ },
+ {
+   "ttconst": "tt0513439",
+   "title": "Annie and the Higher Court"
+ },
+ {
+   "ttconst": "tt0513469",
+   "title": "Powder Rock Stampede"
+ },
+ {
+   "ttconst": "tt0513476",
+   "title": "Sundown Stage"
+ },
+ {
+   "ttconst": "tt0513465",
+   "title": "Joker on Horseback"
+ },
+ {
+   "ttconst": "tt0513419",
+   "title": "A Tall Tale"
+ },
+ {
+   "ttconst": "tt0513450",
+   "title": "Annie and the Twisted Trails"
+ },
+ {
+   "ttconst": "tt0513487",
+   "title": "The Robin Hood Kid"
+ },
+ {
+   "ttconst": "tt0513435",
+   "title": "Annie and the Bicycle Riders"
+ },
+ {
+   "ttconst": "tt0513441",
+   "title": "Annie and the Lacemaker"
+ },
+ {
+   "ttconst": "tt0513438",
+   "title": "Annie and the First Phone"
+ },
+ {
+   "ttconst": "tt0513464",
+   "title": "Indian Justice"
+ },
+ {
+   "ttconst": "tt0513474",
+   "title": "Showdown at Diablo"
+ },
+ {
+   "ttconst": "tt0513485",
+   "title": "The Mississippi Kid"
+ },
+ {
+   "ttconst": "tt0513470",
+   "title": "Renegade's Return"
+ },
+ {
+   "ttconst": "tt0513475",
+   "title": "Sugarfoot Sue"
+ },
+ {
+   "ttconst": "tt0513442",
+   "title": "Annie and the Leprechauns"
+ },
+ {
+   "ttconst": "tt0513457",
+   "title": "Dilemma at Diablo"
+ },
+ {
+   "ttconst": "tt0513467",
+   "title": "Outlaw Brand"
+ },
+ {
+   "ttconst": "tt0513472",
+   "title": "Shadow at Sonoma"
+ },
+ {
+   "ttconst": "tt0513498",
+   "title": "Western Privateer"
+ },
+ {
+   "ttconst": "tt0513486",
+   "title": "The Reckless Press"
+ },
+ {
+   "ttconst": "tt0513460",
+   "title": "Flint and Steel"
+ },
+ {
+   "ttconst": "tt0513478",
+   "title": "Tagg Oakley, Sheriff"
+ },
+ {
+   "ttconst": "tt0513491",
+   "title": "The Waco Kid"
+ },
+ {
+   "ttconst": "tt0513489",
+   "title": "The Saga of Clement O'Toole"
+ },
+ {
+   "ttconst": "tt0513482",
+   "title": "The Front Trail"
+ },
+ {
+   "ttconst": "tt0513431",
+   "title": "Annie Rides the Navajo Trail"
+ },
+ {
+   "ttconst": "tt0513432",
+   "title": "Annie Rings the Bell"
+ },
+ {
+   "ttconst": "tt0513471",
+   "title": "Santa Claus Wears a Gun"
+ },
+ {
+   "ttconst": "tt0513421",
+   "title": "Amateur Outlaw"
+ },
+ {
+   "ttconst": "tt0513461",
+   "title": "Grubstake Bank"
+ },
+ {
+   "ttconst": "tt0513493",
+   "title": "Treasure Map"
+ },
+ {
+   "ttconst": "tt0513444",
+   "title": "Annie and the Miser"
+ },
+ {
+   "ttconst": "tt0513496",
+   "title": "Tuffy"
+ },
+ {
+   "ttconst": "tt0513458",
+   "title": "Dude's Decision"
+ },
+ {
+   "ttconst": "tt0513481",
+   "title": "The Dutch Gunmaker"
+ },
+ {
+   "ttconst": "tt0513454",
+   "title": "Desperate Men"
+ },
+ {
+   "ttconst": "tt0519342",
+   "title": "Stampede At Tent City"
+ },
+ {
+   "ttconst": "tt0519356",
+   "title": "The Fighter"
+ },
+ {
+   "ttconst": "tt0529733",
+   "title": "The Gunmen"
+ },
+ {
+   "ttconst": "tt0529712",
+   "title": "The Fear Merchants"
+ },
+ {
+   "ttconst": "tt0529826",
+   "title": "The Spanish Grant"
+ },
+ {
+   "ttconst": "tt0529512",
+   "title": "Blood on the Land"
+ },
+ {
+   "ttconst": "tt0529539",
+   "title": "Desert Justice"
+ },
+ {
+   "ttconst": "tt0529833",
+   "title": "The Stranger"
+ },
+ {
+   "ttconst": "tt0529556",
+   "title": "Escape to Ponderosa"
+ },
+ {
+   "ttconst": "tt0529674",
+   "title": "The Avenger"
+ },
+ {
+   "ttconst": "tt0529757",
+   "title": "The Last Trophy"
+ },
+ {
+   "ttconst": "tt0529643",
+   "title": "San Francisco"
+ },
+ {
+   "ttconst": "tt0529507",
+   "title": "Bitter Water"
+ },
+ {
+   "ttconst": "tt0529560",
+   "title": "Feet of Clay"
+ },
+ {
+   "ttconst": "tt0529530",
+   "title": "Dark Star"
+ },
+ {
+   "ttconst": "tt0529535",
+   "title": "Death at Dawn"
+ },
+ {
+   "ttconst": "tt0529652",
+   "title": "Showdown"
+ },
+ {
+   "ttconst": "tt0529779",
+   "title": "The Mission"
+ },
+ {
+   "ttconst": "tt0529502",
+   "title": "Badge Without Honor"
+ },
+ {
+   "ttconst": "tt0529777",
+   "title": "The Mill"
+ },
+ {
+   "ttconst": "tt0529738",
+   "title": "The Hopefuls"
+ },
+ {
+   "ttconst": "tt0529538",
+   "title": "Denver McKee"
+ },
+ {
+   "ttconst": "tt0529531",
+   "title": "Day of Reckoning"
+ },
+ {
+   "ttconst": "tt0529668",
+   "title": "The Abduction"
+ },
+ {
+   "ttconst": "tt0529513",
+   "title": "Breed of Violence"
+ },
+ {
+   "ttconst": "tt0529758",
+   "title": "The Last Viking"
+ },
+ {
+   "ttconst": "tt0529843",
+   "title": "The Trail Gang"
+ },
+ {
+   "ttconst": "tt0529816",
+   "title": "The Savage"
+ },
+ {
+   "ttconst": "tt0529654",
+   "title": "Silent Thunder"
+ },
+ {
+   "ttconst": "tt0529670",
+   "title": "The Ape"
+ },
+ {
+   "ttconst": "tt0529678",
+   "title": "The Blood Line"
+ },
+ {
+   "ttconst": "tt0529694",
+   "title": "The Courtship"
+ },
+ {
+   "ttconst": "tt0529827",
+   "title": "Spitfire"
+ },
+ {
+   "ttconst": "tt0533327",
+   "title": "The Fight for Geronimo"
+ },
+ {
+   "ttconst": "tt0533342",
+   "title": "Runaway Renegade"
+ },
+ {
+   "ttconst": "tt0533326",
+   "title": "Empire Pass "
+ },
+ {
+   "ttconst": "tt0533358",
+   "title": "Trail of the Killer "
+ },
+ {
+   "ttconst": "tt0533346",
+   "title": "The Black Ghost"
+ },
+ {
+   "ttconst": "tt0533348",
+   "title": "The Death of Johnny Ringo "
+ },
+ {
+   "ttconst": "tt0533324",
+   "title": "Boomer's Blunder "
+ },
+ {
+   "ttconst": "tt0533355",
+   "title": "The Rain Wagon"
+ },
+ {
+   "ttconst": "tt0533357",
+   "title": "Tough Tenderfoot"
+ },
+ {
+   "ttconst": "tt0533337",
+   "title": "Pawnee Stampede"
+ },
+ {
+   "ttconst": "tt0533330",
+   "title": "Grave of the Monsters"
+ },
+ {
+   "ttconst": "tt0533339",
+   "title": "Red Hawk"
+ },
+ {
+   "ttconst": "tt0533335",
+   "title": "Legacy of Jesse James"
+ },
+ {
+   "ttconst": "tt0533350",
+   "title": "The Fight for Texas"
+ },
+ {
+   "ttconst": "tt0533338",
+   "title": "Rails Westward"
+ },
+ {
+   "ttconst": "tt0533329",
+   "title": "Fugitive from Injustice"
+ },
+ {
+   "ttconst": "tt0541794",
+   "title": "Boomerang"
+ },
+ {
+   "ttconst": "tt0541887",
+   "title": "Rustling"
+ },
+ {
+   "ttconst": "tt0541792",
+   "title": "The Big Switch"
+ },
+ {
+   "ttconst": "tt0541811",
+   "title": "Convict Story"
+ },
+ {
+   "ttconst": "tt0541864",
+   "title": "Oil Land"
+ },
+ {
+   "ttconst": "tt0541802",
+   "title": "Chain Lightning"
+ },
+ {
+   "ttconst": "tt0541854",
+   "title": "Medicine Flats"
+ },
+ {
+   "ttconst": "tt0541880",
+   "title": "Railroad Land Rush"
+ },
+ {
+   "ttconst": "tt0541927",
+   "title": "The Will"
+ },
+ {
+   "ttconst": "tt0541881",
+   "title": "Renegade Son"
+ },
+ {
+   "ttconst": "tt0541849",
+   "title": "Lynching Story"
+ },
+ {
+   "ttconst": "tt0541862",
+   "title": "Newspaper Crusaders"
+ },
+ {
+   "ttconst": "tt0541815",
+   "title": "Dog Story"
+ },
+ {
+   "ttconst": "tt0541810",
+   "title": "Confession for Money"
+ },
+ {
+   "ttconst": "tt0541917",
+   "title": "The Old Bum"
+ },
+ {
+   "ttconst": "tt0541833",
+   "title": "Haven for Heavies"
+ },
+ {
+   "ttconst": "tt0541866",
+   "title": "Pancho Hostage"
+ },
+ {
+   "ttconst": "tt0541826",
+   "title": "Freight Land Feud"
+ },
+ {
+   "ttconst": "tt0541872",
+   "title": "Phoney Sheriff"
+ },
+ {
+   "ttconst": "tt0541931",
+   "title": "Uncle Disinherits Niece"
+ },
+ {
+   "ttconst": "tt0541934",
+   "title": "Water Rights"
+ },
+ {
+   "ttconst": "tt0541870",
+   "title": "Performance Bond"
+ },
+ {
+   "ttconst": "tt0541896",
+   "title": "Stolen Bonds"
+ },
+ {
+   "ttconst": "tt0541827",
+   "title": "Ghost Story"
+ },
+ {
+   "ttconst": "tt0541901",
+   "title": "The Bates Story"
+ },
+ {
+   "ttconst": "tt0541933",
+   "title": "Vigilante Story"
+ },
+ {
+   "ttconst": "tt0541835",
+   "title": "Hidden Valley"
+ },
+ {
+   "ttconst": "tt0541877",
+   "title": "Quarter Horse"
+ },
+ {
+   "ttconst": "tt0541839",
+   "title": "Jewelry Hold Up"
+ },
+ {
+   "ttconst": "tt0541828",
+   "title": "Ghost Town"
+ },
+ {
+   "ttconst": "tt0541879",
+   "title": "Quicksilver Murder"
+ },
+ {
+   "ttconst": "tt0549967",
+   "title": "Ozark Gold"
+ },
+ {
+   "ttconst": "tt1089186",
+   "title": "The Secret Mission"
+ },
+ {
+   "ttconst": "tt0549949",
+   "title": "Center Fire"
+ },
+ {
+   "ttconst": "tt0549947",
+   "title": "Beware! No Trespassing"
+ },
+ {
+   "ttconst": "tt0549972",
+   "title": "Running Iron"
+ },
+ {
+   "ttconst": "tt0549948",
+   "title": "Bounty Jumpers"
+ },
+ {
+   "ttconst": "tt0549965",
+   "title": "Koniackers"
+ },
+ {
+   "ttconst": "tt0549974",
+   "title": "Salted Mines"
+ },
+ {
+   "ttconst": "tt0549966",
+   "title": "Mysterious Decoy"
+ },
+ {
+   "ttconst": "tt0549971",
+   "title": "Ridge of Ghosts"
+ },
+ {
+   "ttconst": "tt0549960",
+   "title": "Hang the Jury"
+ },
+ {
+   "ttconst": "tt0549970",
+   "title": "Rawhiders"
+ },
+ {
+   "ttconst": "tt0549955",
+   "title": "General Delivery"
+ },
+ {
+   "ttconst": "tt0549959",
+   "title": "Gypsy Traders"
+ },
+ {
+   "ttconst": "tt0549977",
+   "title": "Silver Fraud"
+ },
+ {
+   "ttconst": "tt0549961",
+   "title": "Hangfire"
+ },
+ {
+   "ttconst": "tt0549963",
+   "title": "Hush Money"
+ },
+ {
+   "ttconst": "tt0549957",
+   "title": "Ghost Town Mystery"
+ },
+ {
+   "ttconst": "tt0549953",
+   "title": "Empty Mailbags"
+ },
+ {
+   "ttconst": "tt0549975",
+   "title": "Sawdust Swindle"
+ },
+ {
+   "ttconst": "tt0549979",
+   "title": "Spring the Trap"
+ },
+ {
+   "ttconst": "tt0549976",
+   "title": "The Sidewinder"
+ },
+ {
+   "ttconst": "tt0549980",
+   "title": "Stolen Dynamite"
+ },
+ {
+   "ttconst": "tt0549984",
+   "title": "The Woman Mayor"
+ },
+ {
+   "ttconst": "tt0549952",
+   "title": "Double Crossed"
+ },
+ {
+   "ttconst": "tt0549981",
+   "title": "California Bullets"
+ },
+ {
+   "ttconst": "tt0558105",
+   "title": "The Hard Decision"
+ },
+ {
+   "ttconst": "tt0558117",
+   "title": "The Return Of Widow Brown"
+ },
+ {
+   "ttconst": "tt0567322",
+   "title": "Horse of Another color"
+ },
+ {
+   "ttconst": "tt0567328",
+   "title": "Treasure of C. Harry Motley"
+ },
+ {
+   "ttconst": "tt0567317",
+   "title": "Duel for Daphne"
+ },
+ {
+   "ttconst": "tt0567323",
+   "title": "Love Means Bananas"
+ },
+ {
+   "ttconst": "tt0567329",
+   "title": "Then There Were Seven"
+ },
+ {
+   "ttconst": "tt0567318",
+   "title": "Half Moon"
+ },
+ {
+   "ttconst": "tt0567319",
+   "title": "There Goes the Grooms"
+ },
+ {
+   "ttconst": "tt0567324",
+   "title": "The Magician"
+ },
+ {
+   "ttconst": "tt0567314",
+   "title": "Androcles and the Bear"
+ },
+ {
+   "ttconst": "tt0567325",
+   "title": "My Fair Callahan"
+ },
+ {
+   "ttconst": "tt0567315",
+   "title": "Broohaven, USA"
+ },
+ {
+   "ttconst": "tt0567334",
+   "title": "Wizard of Ooze"
+ },
+ {
+   "ttconst": "tt0567326",
+   "title": "Phoney Express"
+ },
+ {
+   "ttconst": "tt0845671",
+   "title": "Nothing to Crow About"
+ },
+ {
+   "ttconst": "tt0567333",
+   "title": "Witch's Trail"
+ },
+ {
+   "ttconst": "tt0845667",
+   "title": "The Cavalry is Coming"
+ },
+ {
+   "ttconst": "tt0567321",
+   "title": "John J. Callahan"
+ },
+ {
+   "ttconst": "tt0583765",
+   "title": "Queen of the Cimarron"
+ },
+ {
+   "ttconst": "tt0583767",
+   "title": "San Francisco Story"
+ },
+ {
+   "ttconst": "tt0583776",
+   "title": "Crooked Circle"
+ },
+ {
+   "ttconst": "tt0821680",
+   "title": "Mystery of the Black Stallion"
+ },
+ {
+   "ttconst": "tt0583780",
+   "title": "The Outlaw Legion"
+ },
+ {
+   "ttconst": "tt0583761",
+   "title": "Fury of the Big Top"
+ },
+ {
+   "ttconst": "tt0583781",
+   "title": "Trouble in Paradise Valley"
+ },
+ {
+   "ttconst": "tt0583758",
+   "title": "Drifting Sands"
+ },
+ {
+   "ttconst": "tt0583779",
+   "title": "The Homesteaders"
+ },
+ {
+   "ttconst": "tt0583756",
+   "title": "Danger Valley"
+ },
+ {
+   "ttconst": "tt0583754",
+   "title": "The Twisted Road"
+ },
+ {
+   "ttconst": "tt0583762",
+   "title": "Gringo Pete"
+ },
+ {
+   "ttconst": "tt0583760",
+   "title": "Flaming Gold"
+ },
+ {
+   "ttconst": "tt0584360",
+   "title": "Joey Finds a Friend"
+ },
+ {
+   "ttconst": "tt0584372",
+   "title": "Killer Stallion"
+ },
+ {
+   "ttconst": "tt0584401",
+   "title": "The Horse Coper"
+ },
+ {
+   "ttconst": "tt0584361",
+   "title": "Joey Goes Hunting"
+ },
+ {
+   "ttconst": "tt0584384",
+   "title": "Scorched Earth"
+ },
+ {
+   "ttconst": "tt0757481",
+   "title": "Joey's Dame Trouble"
+ },
+ {
+   "ttconst": "tt0584365",
+   "title": "Joey and the Gypsies"
+ },
+ {
+   "ttconst": "tt0584368",
+   "title": "Joey's Father"
+ },
+ {
+   "ttconst": "tt0584362",
+   "title": "Joey Saves the Day"
+ },
+ {
+   "ttconst": "tt0584389",
+   "title": "The 4-H Story"
+ },
+ {
+   "ttconst": "tt0584371",
+   "title": "Junior Rodeo"
+ },
+ {
+   "ttconst": "tt0584357",
+   "title": "Ghost Town"
+ },
+ {
+   "ttconst": "tt0584400",
+   "title": "The Hobo"
+ },
+ {
+   "ttconst": "tt0584421",
+   "title": "Tungsten Queen"
+ },
+ {
+   "ttconst": "tt0584363",
+   "title": "Joey Sees it Through"
+ },
+ {
+   "ttconst": "tt0584388",
+   "title": "Stolen Fury"
+ },
+ {
+   "ttconst": "tt0584396",
+   "title": "The Choice"
+ },
+ {
+   "ttconst": "tt0584395",
+   "title": "Boy Scout Story"
+ },
+ {
+   "ttconst": "tt0584385",
+   "title": "Search for Joey"
+ },
+ {
+   "ttconst": "tt0584404",
+   "title": "The Miracle"
+ },
+ {
+   "ttconst": "tt0584411",
+   "title": "The Test"
+ },
+ {
+   "ttconst": "tt0584355",
+   "title": "Fury Runs to Win"
+ },
+ {
+   "ttconst": "tt0584390",
+   "title": "The Baby"
+ },
+ {
+   "ttconst": "tt0598428",
+   "title": "Hawkeye's Homecoming"
+ },
+ {
+   "ttconst": "tt0770564",
+   "title": "The Threat"
+ },
+ {
+   "ttconst": "tt0598427",
+   "title": "Franklin Story"
+ },
+ {
+   "ttconst": "tt0598450",
+   "title": "The Wild One"
+ },
+ {
+   "ttconst": "tt0598424",
+   "title": "Delaware Hoax"
+ },
+ {
+   "ttconst": "tt0598437",
+   "title": "The Coward"
+ },
+ {
+   "ttconst": "tt0121252",
+   "title": "The Ethan Allen Story"
+ },
+ {
+   "ttconst": "tt0598451",
+   "title": "The Witch"
+ },
+ {
+   "ttconst": "tt0598441",
+   "title": "The Medicine Man"
+ },
+ {
+   "ttconst": "tt0598447",
+   "title": "The Servant"
+ },
+ {
+   "ttconst": "tt0598446",
+   "title": "The Search"
+ },
+ {
+   "ttconst": "tt0598434",
+   "title": "Snake Tattoo"
+ },
+ {
+   "ttconst": "tt0598426",
+   "title": "False Witness"
+ },
+ {
+   "ttconst": "tt0598431",
+   "title": "Powder Keg"
+ },
+ {
+   "ttconst": "tt0598433",
+   "title": "Scapegoat"
+ },
+ {
+   "ttconst": "tt0598454",
+   "title": "Way Station"
+ },
+ {
+   "ttconst": "tt0598435",
+   "title": "The Brute"
+ },
+ {
+   "ttconst": "tt0770560",
+   "title": "Stubborn Pioneer"
+ },
+ {
+   "ttconst": "tt0598443",
+   "title": "The Promised Valley"
+ },
+ {
+   "ttconst": "tt0598439",
+   "title": "The Girl"
+ },
+ {
+   "ttconst": "tt0598448",
+   "title": "The Soldier"
+ },
+ {
+   "ttconst": "tt0598429",
+   "title": "Huron Tomahawk"
+ },
+ {
+   "ttconst": "tt0598452",
+   "title": "Tolliver Gang"
+ },
+ {
+   "ttconst": "tt0770861",
+   "title": "The Colonel and His Lady"
+ },
+ {
+   "ttconst": "tt0598453",
+   "title": "Washington Story"
+ },
+ {
+   "ttconst": "tt0598455",
+   "title": "Winter Passage"
+ },
+ {
+   "ttconst": "tt0598444",
+   "title": "The Reckoning"
+ },
+ {
+   "ttconst": "tt0598430",
+   "title": "La Salle's Treasure"
+ },
+ {
+   "ttconst": "tt0770563",
+   "title": "The Prisoner"
+ },
+ {
+   "ttconst": "tt0598425",
+   "title": "False Faces"
+ },
+ {
+   "ttconst": "tt0598442",
+   "title": "The Morristown Story"
+ },
+ {
+   "ttconst": "tt0598432",
+   "title": "Revenge"
+ },
+ {
+   "ttconst": "tt0598436",
+   "title": "The Contest"
+ },
+ {
+   "ttconst": "tt0598449",
+   "title": "The Truant"
+ },
+ {
+   "ttconst": "tt0598445",
+   "title": "The Royal Grant"
+ },
+ {
+   "ttconst": "tt0770561",
+   "title": "The Long Rifles"
+ },
+ {
+   "ttconst": "tt0770562",
+   "title": "The Printer"
+ },
+ {
+   "ttconst": "tt0598440",
+   "title": "The Indian Doll"
+ },
+ {
+   "ttconst": "tt0770559",
+   "title": "Circle of Hate"
+ },
+ {
+   "ttconst": "tt0608079",
+   "title": "Battle of Mississippi"
+ },
+ {
+   "ttconst": "tt0608095",
+   "title": "Voice in the Wilderness"
+ },
+ {
+   "ttconst": "tt0608084",
+   "title": "Mysterious Journey"
+ },
+ {
+   "ttconst": "tt0608082",
+   "title": "Martinet"
+ },
+ {
+   "ttconst": "tt0608076",
+   "title": "Civilization"
+ },
+ {
+   "ttconst": "tt0608094",
+   "title": "The Watch"
+ },
+ {
+   "ttconst": "tt0608074",
+   "title": "Blue-Eyed Squaw"
+ },
+ {
+   "ttconst": "tt1100755",
+   "title": "An Eye for an Eye"
+ },
+ {
+   "ttconst": "tt0608081",
+   "title": "MacLeods Witch"
+ },
+ {
+   "ttconst": "tt0608083",
+   "title": "The Coward"
+ },
+ {
+   "ttconst": "tt0608090",
+   "title": "The Duel"
+ },
+ {
+   "ttconst": "tt0608075",
+   "title": "Bosom Friends"
+ },
+ {
+   "ttconst": "tt1100757",
+   "title": "Retribution"
+ },
+ {
+   "ttconst": "tt0608085",
+   "title": "Partners"
+ },
+ {
+   "ttconst": "tt0608089",
+   "title": "The Crees"
+ },
+ {
+   "ttconst": "tt1100758",
+   "title": "Five Against Sunrise"
+ },
+ {
+   "ttconst": "tt0608080",
+   "title": "Jury of His Peers"
+ },
+ {
+   "ttconst": "tt0608092",
+   "title": "The Law"
+ },
+ {
+   "ttconst": "tt0617178",
+   "title": "The Judge of Pecos Valley"
+ },
+ {
+   "ttconst": "tt0617176",
+   "title": "The Horse Thief"
+ },
+ {
+   "ttconst": "tt0617168",
+   "title": "Sunburnt Gold"
+ },
+ {
+   "ttconst": "tt0617183",
+   "title": "The Runaway"
+ },
+ {
+   "ttconst": "tt0617151",
+   "title": "Black Jack"
+ },
+ {
+   "ttconst": "tt0617154",
+   "title": "Citizen Romeo"
+ },
+ {
+   "ttconst": "tt0617155",
+   "title": "Connie Comes to Town"
+ },
+ {
+   "ttconst": "tt0617174",
+   "title": "The Fugitive"
+ },
+ {
+   "ttconst": "tt0617161",
+   "title": "Letty Leaves Home"
+ },
+ {
+   "ttconst": "tt0617164",
+   "title": "Murder in Langtry"
+ },
+ {
+   "ttconst": "tt0617153",
+   "title": "Checkmate"
+ },
+ {
+   "ttconst": "tt0617173",
+   "title": "The Eyes of Texas"
+ },
+ {
+   "ttconst": "tt0617175",
+   "title": "The Hidden Truth"
+ },
+ {
+   "ttconst": "tt0617179",
+   "title": "The Judge's Dilemma"
+ },
+ {
+   "ttconst": "tt0617180",
+   "title": "The Katchina Doll"
+ },
+ {
+   "ttconst": "tt0617165",
+   "title": "The Outlaws Son"
+ },
+ {
+   "ttconst": "tt0617181",
+   "title": "The Reformer"
+ },
+ {
+   "ttconst": "tt0617184",
+   "title": "The Travelers"
+ },
+ {
+   "ttconst": "tt0617172",
+   "title": "The Elopers"
+ },
+ {
+   "ttconst": "tt0617150",
+   "title": "Bad Medicine"
+ },
+ {
+   "ttconst": "tt0617171",
+   "title": "The Defense Rest"
+ },
+ {
+   "ttconst": "tt0617156",
+   "title": "Deliver the Body"
+ },
+ {
+   "ttconst": "tt0617152",
+   "title": "Border Raiders"
+ },
+ {
+   "ttconst": "tt0617163",
+   "title": "Luck O' the Irish"
+ },
+ {
+   "ttconst": "tt0635367",
+   "title": "Enter the Lone Ranger"
+ },
+ {
+   "ttconst": "tt0635480",
+   "title": "The Lone Ranger Fights On"
+ },
+ {
+   "ttconst": "tt0635481",
+   "title": "The Lone Rangers Triumph"
+ },
+ {
+   "ttconst": "tt0635478",
+   "title": "The Legion of Old Timers"
+ },
+ {
+   "ttconst": "tt0635434",
+   "title": "Rustlers Hideout"
+ },
+ {
+   "ttconst": "tt0635535",
+   "title": "Warhorse"
+ },
+ {
+   "ttconst": "tt0635424",
+   "title": "Pete and Pedro"
+ },
+ {
+   "ttconst": "tt0635495",
+   "title": "The Renegades"
+ },
+ {
+   "ttconst": "tt0041951",
+   "title": "The Tenderfeet"
+ },
+ {
+   "ttconst": "tt0635387",
+   "title": "High heels"
+ },
+ {
+   "ttconst": "tt0635444",
+   "title": "Six Guns Legacy"
+ },
+ {
+   "ttconst": "tt0635431",
+   "title": "Return of the Convict"
+ },
+ {
+   "ttconst": "tt0635371",
+   "title": "Finders Keepers"
+ },
+ {
+   "ttconst": "tt0635486",
+   "title": "The Masked Rider"
+ },
+ {
+   "ttconst": "tt0635411",
+   "title": "Old Joe's Sister"
+ },
+ {
+   "ttconst": "tt0635338",
+   "title": "Canonball McKay"
+ },
+ {
+   "ttconst": "tt0635401",
+   "title": "Message from Abe"
+ },
+ {
+   "ttconst": "overland0101",
+   "title": "Chapter 1-A Race with Disaster"
+ },
+ {
+   "ttconst": "overland0102",
+   "title": "Chapter 2-Flaming Havoc"
+ },
+ {
+   "ttconst": "overland0103",
+   "title": "Chapter 3-The Menacing Hand"
+ },
+ {
+   "ttconst": "overland0104",
+   "title": "Chapter 4-The Bridge of Disaster"
+ },
+ {
+   "ttconst": "overland0105",
+   "title": "Chapter 5-Hurled to the Depths"
+ },
+ {
+   "ttconst": "overland0106",
+   "title": "Chapter 6-Death at the Stake"
+ },
+ {
+   "ttconst": "overland0107",
+   "title": "Chapter 7-The Path of Peril"
+ },
+ {
+   "ttconst": "overland0108",
+   "title": "Chapter 8-Imprisoned in Flames"
+ },
+ {
+   "ttconst": "overland0109",
+   "title": "Chapter 9-Hidden Danger"
+ },
+ {
+   "ttconst": "overland0110",
+   "title": "Chapter 10-Blazing Wagons"
+ },
+ {
+   "ttconst": "overland0111",
+   "title": "Chapter 11-The Trail of Terror"
+ },
+ {
+   "ttconst": "overland0112",
+   "title": "Chapter 12-In the Claws of the Cougar"
+ },
+ {
+   "ttconst": "overland0113",
+   "title": "Chapter 13-The Frenzied Mob"
+ },
+ {
+   "ttconst": "overland0114",
+   "title": "Chapter 14-The Toll of Treachery"
+ },
+ {
+   "ttconst": "overland0115",
+   "title": "Chapter 15-The Mail Goes Through"
+ },
+ {
+   "ttconst": "miracle0101",
+   "title": "Chapter 1-The Vanishing Indian"
+ },
+ {
+   "ttconst": "miracle0102",
+   "title": "Chapter 2-The Firebird Strikes"
+ },
+ {
+   "ttconst": "miracle0103",
+   "title": "Chapter 3-The Flying Knife"
+ },
+ {
+   "ttconst": "miracle0104",
+   "title": "Chapter 4-A Race with Death"
+ },
+ {
+   "ttconst": "miracle0105",
+   "title": "Chapter 5-Double Barreled Doom"
+ },
+ {
+   "ttconst": "miracle0106",
+   "title": "Chapter 6-Thundering Hoofs"
+ },
+ {
+   "ttconst": "miracle0107",
+   "title": "Chapter 7-The Dragnet"
+ },
+ {
+   "ttconst": "miracle0108",
+   "title": "Chapter 8-Guerilla Warfare"
+ },
+ {
+   "ttconst": "miracle0109",
+   "title": "Chapter 9-The Silver Road"
+ },
+ {
+   "ttconst": "miracle0110",
+   "title": "Chapter 10-Signal Fires"
+ },
+ {
+   "ttconst": "miracle0111",
+   "title": "Chapter 11-A Traitor Dies"
+ },
+ {
+   "ttconst": "miracle0112",
+   "title": "Chapter 12-Danger Rides with Death"
+ },
+ {
+   "ttconst": "miracle0113",
+   "title": "Chapter 13-The Secret of X-94"
+ },
+ {
+   "ttconst": "miracle0114",
+   "title": "Chapter 14-Between Two Fires"
+ },
+ {
+   "ttconst": "miracle0115",
+   "title": "Chapter 15-Justice Rides the Plains"
+ },
+ {
+   "ttconst": "phantom0101",
+   "title": "Ch.1-Singing Cowboy"
+ },
+ {
+   "ttconst": "phantom0102",
+   "title": "Ch.2-Thunder Riders"
+ },
+ {
+   "ttconst": "phantom0103",
+   "title": "Ch.3-Lightning Chamber"
+ },
+ {
+   "ttconst": "phantom0104",
+   "title": "Ch.4-Phantom Broadcast"
+ },
+ {
+   "ttconst": "phantom0105",
+   "title": "Ch.5-Beneath the Sky"
+ },
+ {
+   "ttconst": "phantom0106",
+   "title": "Ch.6-Disaster From the Sky"
+ },
+ {
+   "ttconst": "phantom0107",
+   "title": "Ch.7-From Death to Life"
+ },
+ {
+   "ttconst": "phantom0108",
+   "title": "Ch.8-Jaws of Jeopardy"
+ },
+ {
+   "ttconst": "phantom0109",
+   "title": "Ch.9-Prisoners of the Ray"
+ },
+ {
+   "ttconst": "phantom0110",
+   "title": "Ch.10-Rebellion"
+ },
+ {
+   "ttconst": "phantom0111",
+   "title": "Ch.11-Queen in Chains"
+ },
+ {
+   "ttconst": "phantom0112",
+   "title": "Ch.12-End of Murania"
+ },
+ {
+   "ttconst": "tt0682692",
+   "title": "The Crooked Fork"
+ },
+ {
+   "ttconst": "tt0682637",
+   "title": "The Blind Trail"
+ },
+ {
+   "ttconst": "tt0682678",
+   "title": "Rustler's Range"
+ },
+ {
+   "ttconst": "tt0682681",
+   "title": "Shotgun Stage"
+ },
+ {
+   "ttconst": "tt0682658",
+   "title": "Indian War Party"
+ },
+ {
+   "ttconst": "tt0682702",
+   "title": "Saga of Silver Town"
+ },
+ {
+   "ttconst": "tt0682641",
+   "title": "Cherokee Round-Up"
+ },
+ {
+   "ttconst": "tt0682705",
+   "title": "Treasure of Santa Dolores"
+ },
+ {
+   "ttconst": "tt0682699",
+   "title": "The Holy Terror"
+ },
+ {
+   "ttconst": "tt0682638",
+   "title": "Border City Affair"
+ },
+ {
+   "ttconst": "tt0682689",
+   "title": "The Black Terror"
+ },
+ {
+   "ttconst": "tt0682665",
+   "title": "Marshal from Madero"
+ },
+ {
+   "ttconst": "tt0682640",
+   "title": "Bullets and Badmen"
+ },
+ {
+   "ttconst": "tt0682707",
+   "title": "West of Cheyenne"
+ },
+ {
+   "ttconst": "tt0682642",
+   "title": "Convict at Large"
+ },
+ {
+   "ttconst": "tt0682656",
+   "title": "Hideout"
+ },
+ {
+   "ttconst": "tt0682690",
+   "title": "The Bucksin"
+ },
+ {
+   "ttconst": "tt0682691",
+   "title": "The Chase"
+ },
+ {
+   "ttconst": "tt0682668",
+   "title": "Outlaw Pistols"
+ },
+ {
+   "ttconst": "tt0686646",
+   "title": "Outlaw's Inheritance"
+ },
+ {
+   "ttconst": "tt0686603",
+   "title": "Day of the Hunter"
+ },
+ {
+   "ttconst": "tt0686632",
+   "title": "Mail Order Groom"
+ },
+ {
+   "ttconst": "tt0690930",
+   "title": "Jailbreak"
+ },
+ {
+   "ttconst": "tt0690979",
+   "title": "The Set-Up"
+ },
+ {
+   "ttconst": "tt0690983",
+   "title": "The Treasure of Howling Dog Canyon"
+ },
+ {
+   "ttconst": "tt0690982",
+   "title": "The Train Robbery"
+ },
+ {
+   "ttconst": "tt0690897",
+   "title": "Badman's Brother"
+ },
+ {
+   "ttconst": "tt0690974",
+   "title": "The Outlaws Girl"
+ },
+ {
+   "ttconst": "tt0690960",
+   "title": "The Desert Fugitive"
+ },
+ {
+   "ttconst": "tt0690943",
+   "title": "Outlaws Town"
+ },
+ {
+   "ttconst": "tt0690989",
+   "title": "Unwilling Outlaw"
+ },
+ {
+   "ttconst": "tt0690905",
+   "title": "Dead Mens Hiills"
+ },
+ {
+   "ttconst": "tt0690973",
+   "title": "The Minister's Son"
+ },
+ {
+   "ttconst": "tt0690917",
+   "title": "Ghost Gulch"
+ },
+ {
+   "ttconst": "tt0690952",
+   "title": "Ride in the Death Wagon"
+ },
+ {
+   "ttconst": "tt0690947",
+   "title": "Peril from the Past"
+ },
+ {
+   "ttconst": "tt0690962",
+   "title": "The Hermits Secret"
+ },
+ {
+   "ttconst": "tt0690918",
+   "title": "Ghost Town Gold"
+ },
+ {
+   "ttconst": "tt0690916",
+   "title": "Flying Bullets"
+ },
+ {
+   "ttconst": "tt0690907",
+   "title": "Death Medicine"
+ },
+ {
+   "ttconst": "tt0690920",
+   "title": "Go for Your Gun"
+ },
+ {
+   "ttconst": "tt0690898",
+   "title": "Blind Justice"
+ },
+ {
+   "ttconst": "tt0690967",
+   "title": "The Knockout"
+ },
+ {
+   "ttconst": "tt0690976",
+   "title": "Run-A-Round"
+ },
+ {
+   "ttconst": "tt0690948",
+   "title": "Phantom Rustlers"
+ },
+ {
+   "ttconst": "tt0690935",
+   "title": "Loaded Guns"
+ },
+ {
+   "ttconst": "tt0690939",
+   "title": "Money to Burn"
+ },
+ {
+   "ttconst": "tt0690971",
+   "title": "Milliner from Medicine Creek"
+ },
+ {
+   "ttconst": "tt0690944",
+   "title": "Outlaws of Paradise Valley"
+ },
+ {
+   "ttconst": "tt0690936",
+   "title": "M Stands for Murder"
+ },
+ {
+   "ttconst": "tt0690978",
+   "title": "The Secret of Indian Gap"
+ },
+ {
+   "ttconst": "tt0690968",
+   "title": "The Lady Killer"
+ },
+ {
+   "ttconst": "tt0690922",
+   "title": "Hard Luck Story"
+ },
+ {
+   "ttconst": "tt0690900",
+   "title": "Boys Day at Paradise Valley"
+ },
+ {
+   "ttconst": "tt0690896",
+   "title": "Bad Neighbors"
+ },
+ {
+   "ttconst": "tt0690925",
+   "title": "Hidden Treasures"
+ },
+ {
+   "ttconst": "tt0690958",
+   "title": "The Big Chance"
+ },
+ {
+   "ttconst": "tt0690904",
+   "title": "Dead End Trail"
+ },
+ {
+   "ttconst": "tt0690899",
+   "title": "Born Fugitive"
+ },
+ {
+   "ttconst": "tt0690950",
+   "title": "Quick Draw"
+ },
+ {
+   "ttconst": "tt0690893",
+   "title": "And Sudden Death"
+ },
+ {
+   "ttconst": "tt0690951",
+   "title": "Ranch War"
+ },
+ {
+   "ttconst": "tt0690892",
+   "title": "Ambush"
+ },
+ {
+   "ttconst": "tt0690938",
+   "title": "Money is Dangerous"
+ },
+ {
+   "ttconst": "tt0690928",
+   "title": "Horse Crazy"
+ },
+ {
+   "ttconst": "tt0699937",
+   "title": "The Deadly Key"
+ },
+ {
+   "ttconst": "tt0699928",
+   "title": "Donna Juanita"
+ },
+ {
+   "ttconst": "tt0699943",
+   "title": "The Spanish Box"
+ },
+ {
+   "ttconst": "tt0699939",
+   "title": "The Golden Tunnel"
+ },
+ {
+   "ttconst": "tt0699922",
+   "title": "A Flower for Jenny"
+ },
+ {
+   "ttconst": "tt0699935",
+   "title": "Ring of Death"
+ },
+ {
+   "ttconst": "tt0699924",
+   "title": "Backtrack"
+ },
+ {
+   "ttconst": "tt0699930",
+   "title": "The Killer’s Brand"
+ },
+ {
+   "ttconst": "tt0699923",
+   "title": "Flower on Boot Hill"
+ },
+ {
+   "ttconst": "tt0699926",
+   "title": "The Charcoal Bullet"
+ },
+ {
+   "ttconst": "tt0699932",
+   "title": "Lost Gold"
+ },
+ {
+   "ttconst": "tt0699942",
+   "title": "The Smell of Money"
+ },
+ {
+   "ttconst": "tt0710935",
+   "title": "Belle Star"
+ },
+ {
+   "ttconst": "tt0710938",
+   "title": "Billy the Kid"
+ },
+ {
+   "ttconst": "tt0710947",
+   "title": "Frank and Jesse James"
+ },
+ {
+   "ttconst": "tt0710948",
+   "title": "Geronimo"
+ },
+ {
+   "ttconst": "tt0710961",
+   "title": "Quaantrill and His Raiders"
+ },
+ {
+   "ttconst": "tt0710942",
+   "title": "Cattle Kate"
+ },
+ {
+   "ttconst": "tt0710963",
+   "title": "Sam Bass"
+ },
+ {
+   "ttconst": "tt0710955",
+   "title": "Johnny Ringo"
+ },
+ {
+   "ttconst": "tt0710965",
+   "title": "The Dalton Gang"
+ },
+ {
+   "ttconst": "tt0710946",
+   "title": "Doc Holiday"
+ },
+ {
+   "ttconst": "tt0710968",
+   "title": "The Younger Brothers"
+ },
+ {
+   "ttconst": "tt0710954",
+   "title": "John Wesley Hardin"
+ },
+ {
+   "ttconst": "tt0710953",
+   "title": "Joaquin Murietta"
+ },
+ {
+   "ttconst": "tt0710969",
+   "title": "Tiburcio Vasquez"
+ },
+ {
+   "ttconst": "tt0710944",
+   "title": "Chief Crazy Horse"
+ },
+ {
+   "ttconst": "tt0710939",
+   "title": "Black Bart"
+ },
+ {
+   "ttconst": "tt0710950",
+   "title": "Henry Plummer"
+ },
+ {
+   "ttconst": "tt0710937",
+   "title": "Bill Longley"
+ },
+ {
+   "ttconst": "tt0710949",
+   "title": "Harry Tracy"
+ },
+ {
+   "ttconst": "tt0710967",
+   "title": "The Wild Bunch of Wyoming"
+ },
+ {
+   "ttconst": "tt0710966",
+   "title": "The Doolin Gang"
+ },
+ {
+   "ttconst": "tt0710958",
+   "title": "Little Britches"
+ },
+ {
+   "ttconst": "tt0710940",
+   "title": "Black Jack Ketchum"
+ },
+ {
+   "ttconst": "tt0710971",
+   "title": "Tom Horn"
+ },
+ {
+   "ttconst": "tt0710936",
+   "title": "Ben Thompson"
+ },
+ {
+   "ttconst": "tt0710945",
+   "title": "Clay Allison"
+ },
+ {
+   "ttconst": "tt0710941",
+   "title": "Burt Alvord"
+ },
+ {
+   "ttconst": "tt0710933",
+   "title": "Apache Kid"
+ },
+ {
+   "ttconst": "tt0710970",
+   "title": "Tom Bell"
+ },
+ {
+   "ttconst": "tt0710956",
+   "title": "Kate Bender"
+ },
+ {
+   "ttconst": "tt0710934",
+   "title": "Augustine Chacon"
+ },
+ {
+   "ttconst": "tt0710943",
+   "title": "Cherokee Bill"
+ },
+ {
+   "ttconst": "tt0710960",
+   "title": "Nate Champion"
+ },
+ {
+   "ttconst": "tt0710964",
+   "title": "Sontag and Evans"
+ },
+ {
+   "ttconst": "tt0710962",
+   "title": "Rube Burrows"
+ },
+ {
+   "ttconst": "tt0710952",
+   "title": "Jim Courtright"
+ },
+ {
+   "ttconst": "tt0710951",
+   "title": "Jack Slade"
+ },
+ {
+   "ttconst": "tt0710957",
+   "title": "L.H. Musgrove"
+ },
+ {
+   "ttconst": "tt0718112",
+   "title": "Home Town "
+ },
+ {
+   "ttconst": "tt0718114",
+   "title": "Stopover"
+ },
+ {
+   "ttconst": "tt0718115",
+   "title": "The Bounty Hunter"
+ },
+ {
+   "ttconst": "tt0718117",
+   "title": "The Mary Hardin Story"
+ },
+ {
+   "ttconst": "tt0718121",
+   "title": "Voices of the Town"
+ },
+ {
+   "ttconst": "tt0718109",
+   "title": "A Lethal Pride"
+ },
+ {
+   "ttconst": "tt0718120",
+   "title": "Tigrero"
+ },
+ {
+   "ttconst": "tt0718111",
+   "title": "Comanche Scalps"
+ },
+ {
+   "ttconst": "tt0718110",
+   "title": "Before Sunup"
+ },
+ {
+   "ttconst": "tt0718118",
+   "title": "The Reckoning"
+ },
+ {
+   "ttconst": "tt0718116",
+   "title": "The Gunfighters"
+ },
+ {
+   "ttconst": "tt0718113",
+   "title": "Quiet After the Storm"
+ },
+ {
+   "ttconst": "tt0718119",
+   "title": "The Return of Jessica Jackson"
+ },
+ {
+   "ttconst": "tt0743195",
+   "title": "The Malachi Hobart Story"
+ },
+ {
+   "ttconst": "tt0743100",
+   "title": "The Dr. Denker Story"
+ },
+ {
+   "ttconst": "tt0743011",
+   "title": "Alias Bill Hawks"
+ },
+ {
+   "ttconst": "zorro0101",
+   "title": "Death from the Sky"
+ },
+ {
+   "ttconst": "zorro0102",
+   "title": "The Fatal Minute"
+ },
+ {
+   "ttconst": "zorro0103",
+   "title": "Juggernaut"
+ },
+ {
+   "ttconst": "zorro0104",
+   "title": "Unmasked"
+ },
+ {
+   "ttconst": "zorro0105",
+   "title": "Sky Pirates"
+ },
+ {
+   "ttconst": "zorro0106",
+   "title": "The Fatal Shot"
+ },
+ {
+   "ttconst": "zorro0107",
+   "title": "Burning Embers"
+ },
+ {
+   "ttconst": "zorro0108",
+   "title": "Plunge of Peril"
+ },
+ {
+   "ttconst": "zorro0109",
+   "title": "Tunnel of Terror"
+ },
+ {
+   "ttconst": "zorro0110",
+   "title": "Trapped"
+ },
+ {
+   "ttconst": "zorro0111",
+   "title": "Right of Way"
+ },
+ {
+   "ttconst": "zorro0112",
+   "title": "Retribution"
+ }
+]
